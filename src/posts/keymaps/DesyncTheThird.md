@@ -15,10 +15,17 @@ keyCount: 42
 keymapImage: https://raw.githubusercontent.com/DesyncTheThird/corne-keymap/main/images/combined.png
 keymapUrl: https://github.com/DesyncTheThird/corne-keymap/tree/main
 languages: [English]
-layerCount: 13
+layerCount: 16
 OS: ["Windows"]
 stagger: columnar
-summary: Keymap for the Corne keyboard, optimised for writing (La)TeX and C files.
+summary:
+- Repeat/magic modded base layout;
+- Rollback feature for magic outputs and macros;
+- Common symbols/punctuation accessible through combos;
+- Two symbol layers, individually optimised for LaTeX and C;
+- Extensive editing/navigation macros;
+- Case lock for easy snake_case, kebab-case, dot.case, and camelCase usage;
+- Control key overrides on base layer for left-hand only use.
 title: Desync's keymap
 writeup: https://github.com/DesyncTheThird/corne-keymap/blob/main/readme.md
 ---
